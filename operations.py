@@ -1,3 +1,8 @@
+#READ
+
+#WRITE
+
+
 #LOAD
 
 #STORE
